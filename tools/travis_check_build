@@ -4,8 +4,8 @@
 
 echo "[i] $0 BEGIN"
 
-megadown -l mega_link_list.example
+./megadown -l mega_link_list.example
+
+md5sum -c ./tools/test.md5sum
 
 echo "[i] $0 END"
-
-exit 0

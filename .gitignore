@@ -2,4 +2,5 @@
 *.conf
 git_*
 .tmp*
+*.zip
 .mega*
