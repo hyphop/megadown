@@ -2,8 +2,10 @@
 
 ## hyphop ##
 
-echo "[i] $0 start"
+echo "[i] $0 BEGIN"
 
 megadown -l mega_link_list.example
+
+echo "[i] $0 END"
 
 exit 0
