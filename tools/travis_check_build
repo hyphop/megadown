@@ -1,0 +1,9 @@
+#!/bin/sh
+
+## hyphop ##
+
+echo "[i] $0 start"
+
+megadown -l mega_link_list.example
+
+exit 0
