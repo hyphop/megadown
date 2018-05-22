@@ -1,3 +1,5 @@
+[![Build Status](https://travis-ci.com/hyphop/megadown.svg?branch=master)](https://travis-ci.com/hyphop/megadown)
+
 # megadown
 
 Bash script for download files from mega.nz and megacrypter
