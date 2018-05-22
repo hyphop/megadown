@@ -40,3 +40,6 @@ Multi url mode:             megadown [-l URL_LIST_FILE] [OPTION]...
         File line format:          URL [optional_file_name]
 
 ```
+## Examples
+
+    megadown -l mega_link_list.example
